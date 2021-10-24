@@ -12,4 +12,5 @@ In facial expression recognition (FER), the uncertainties introduced by inherent
 ![](https://github.com/zyh-uaiaaaa/Relative-Uncertainty-Learning/blob/main/imgs/overview%20(2).png)
 
 **Feature Visualization**
-
+The feature distribution figure shows that RUL encourages intra-class compactness and inter-class seperability of the learned features. (0:Surprise, 1:Fear, 2:Disgust, 3:Happy, 4:Sad, 5:Angry, 6:Neutral)
+![](https://github.com/zyh-uaiaaaa/Relative-Uncertainty-Learning/blob/main/imgs/feature_distribution.png)

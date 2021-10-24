@@ -43,7 +43,7 @@ Download the pretrained ResNet18 from [this](https://github.com/amirhfarzaneh/da
 
 ```key
 cd src
-python main.py --raf_path '../dataset/raf-basic' --label_path '../dataset/raf-basic/EmoLabel/list_patition_label.txt' --pretrained_model_path '../pretrained_model/resnet18_msceleb.pth'
+python main.py --raf_path '../dataset/raf-basic' --label_path '../dataset/raf-basic/EmoLabel/list_patition_label.txt' --pretrained_backbone_path '../pretrained_model/resnet18_msceleb.pth'
 ```
 
 **Accuracy**

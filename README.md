@@ -50,4 +50,9 @@ python main.py --raf_path '../dataset/raf-basic' --label_path '../dataset/raf-ba
 
 ![](https://github.com/zyh-uaiaaaa/Relative-Uncertainty-Learning/blob/main/imgs/accuracy.png)
 
+**Acknowledgments**
+Our work is based on the following works, thanks for their code and pretrained model:
+![](https://github.com/kaiwang960112/Self-Cure-Network)
+![](https://github.com/Ontheway361/dul-pytorch)
+![](https://github.com/amirhfarzaneh/dacl)
 

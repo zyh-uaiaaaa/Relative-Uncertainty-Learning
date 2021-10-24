@@ -10,3 +10,6 @@ In facial expression recognition (FER), the uncertainties introduced by inherent
 
 **Pipeline**
 ![](https://github.com/zyh-uaiaaaa/Relative-Uncertainty-Learning/blob/main/imgs/overview%20(2).png)
+
+**Feature Visualization**
+

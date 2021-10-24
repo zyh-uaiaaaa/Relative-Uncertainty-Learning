@@ -48,5 +48,6 @@ python main.py --raf_path '../dataset/raf-basic' --label_path '../dataset/raf-ba
 
 **Accuracy**
 
+![](https://github.com/zyh-uaiaaaa/Relative-Uncertainty-Learning/blob/main/imgs/accuracy.png)
 
 

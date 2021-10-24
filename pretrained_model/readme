@@ -1,0 +1,1 @@
+Put the downloaded resnet18_msceleb.pth here.

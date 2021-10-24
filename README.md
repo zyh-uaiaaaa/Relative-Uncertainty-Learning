@@ -36,5 +36,17 @@ Download [RAF-DB](http://www.whdeng.cn/RAF/model1.html#dataset), put it into the
 ```
 
 **Pretrained backbone model**
+
 Download the pretrained ResNet18 from [this](https://github.com/amirhfarzaneh/dacl) github repository, and then put it into the pretrained_model directory. We thank the authors for providing their pretrained ResNet model.
+
+**Train the RUL model**
+
+```key
+cd src
+python main.py --raf_path '../dataset/raf-basic' --label_path '../dataset/raf-basic/EmoLabel/list_patition_label.txt' --pretrained_model_path '../pretrained_model/resnet18_msceleb.pth'
+```
+
+**Accuracy**
+
+
 

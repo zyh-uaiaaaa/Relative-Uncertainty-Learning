@@ -39,6 +39,8 @@ Download [RAF-DB](http://www.whdeng.cn/RAF/model1.html#dataset), put it into the
 
 Download the pretrained ResNet18 from [this](https://github.com/amirhfarzaneh/dacl) github repository, and then put it into the pretrained_model directory. We thank the authors for providing their pretrained ResNet model.
 
+The pre-trained model of the mentioned github repository is expired. You can acquire the pre-trained model through this [link](https://drive.google.com/file/d/1EEx7qVCums-TM5fiblepgY70MDqIxbVz/view?usp=sharing).
+
 **Train the RUL model**
 
 ```key

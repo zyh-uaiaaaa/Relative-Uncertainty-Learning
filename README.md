@@ -48,9 +48,7 @@ cd src
 python main.py --raf_path '../dataset/raf-basic' --label_path '../dataset/raf-basic/EmoLabel/list_patition_label.txt' --pretrained_backbone_path '../pretrained_model/resnet18_msceleb.pth'
 ```
 
-**Accuracy**
 
-![](https://github.com/zyh-uaiaaaa/Relative-Uncertainty-Learning/blob/main/imgs/accuracy.png)
 
 ## Others
 
